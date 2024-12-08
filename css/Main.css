@@ -1,0 +1,22 @@
+
+body
+{
+   background-color: black;
+}
+
+.form-floating
+{
+   color: #777;
+}
+
+
+.form-control:focus
+{
+   box-shadow: none;
+}
+
+.product img
+{
+   height: 150px;
+   object-fit: contain;
+}
